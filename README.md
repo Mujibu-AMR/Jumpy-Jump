@@ -5,7 +5,7 @@ This is a simple jumping game(not a game at all) developed on the process of lea
 ## For Beginners Like Me
 
 To beginner's those who want to understand the concept.
-I've used nested <\div\> tag. 
+I've used nested \<div\> tag. 
 setInterval() is used for two things.    
  * for updateScore (updating score every 100 millisecond).
  * for isAlive (to check whether the character collide with object).
